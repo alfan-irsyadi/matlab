@@ -10,3 +10,7 @@ List script:
 * Metode Biseksi
 * Metode Regula Falsi
 * Metode Newton-Raphson
+
+```
+Gunakan Symbolic Matlab Toolbox
+```
