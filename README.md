@@ -2,6 +2,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=alfan-irsyadi&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alfan-irsyadi&theme=blue-green)
+
 # Script MATLAB
 ## Metode Numerik
 
