@@ -10,6 +10,7 @@ List script:
 * Metode Biseksi
 * Metode Regula Falsi
 * Metode Newton-Raphson
+* [New] Eliminasi Gauss
 
 ```
 Gunakan Symbolic Matlab Toolbox
